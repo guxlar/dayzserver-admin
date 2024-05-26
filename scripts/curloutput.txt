@@ -1,0 +1,61 @@
+HTTP/1.1 405 Method Not Allowed
+Date: Sun, 26 May 2024 19:11:42 GMT
+Content-Type: application/json
+Content-Length: 49
+Connection: keep-alive
+set-cookie: __dcfduid=c91ea8c01b9311efa142ba7773b0236e; Expires=Fri, 25-May-2029 19:11:42 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+via: 1.1 google
+alt-svc: h3=":443"; ma=86400
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=frFuq4GCBYp7M80iTdHoU5NKeY%2BH8azbTQAt6gN%2BUdQiOxu91xb0bxIkga7m0fOtuTV8F9laes%2Fb4cmF3g03VqNXK5uzO0Y%2BmZOVln4MTtoq3B9YQ2KqQER23nwR"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors 'none'; default-src 'none'
+Set-Cookie: __sdcfduid=c91ea8c01b9311efa142ba7773b0236e79516fee246c53906242d19e0aff7ff7ae58434f13289c56f915b73cda3702e5; Expires=Fri, 25-May-2029 19:11:42 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax
+Set-Cookie: __cfruid=a072a48052b1c80ff56bc5f97e1c3ade518fbbb9-1716750702; path=/; domain=.discord.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: _cfuvid=HuiLlIHy3cnDU3hD7g8NNgvg5d7l2sO.ILfgvfga4QM-1716750702079-0.0.1.1-604800000; path=/; domain=.discord.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+CF-RAY: 88a0128f0b340ec5-EZE
+
+{"message": "405: Method Not Allowed", "code": 0}HTTP/1.1 405 Method Not Allowed
+Date: Sun, 26 May 2024 19:11:43 GMT
+Content-Type: application/json
+Content-Length: 49
+Connection: keep-alive
+set-cookie: __dcfduid=ca41eaaa1b9311ef877c86da9025f878; Expires=Fri, 25-May-2029 19:11:43 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+via: 1.1 google
+alt-svc: h3=":443"; ma=86400
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=b8%2FXgLPgGWNB5QlusmTiWdtv75xMdh8OzcTwPeR3acjjp2zaa%2BgiAAckxb%2F243qWTRaCxT2xmzfViuea%2FpJjtMhpKzVHK9HY%2FRmFNfUdmEyddZSYOv9h%2BhfxXlCF"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors 'none'; default-src 'none'
+Set-Cookie: __sdcfduid=ca41eaaa1b9311ef877c86da9025f87894cd6bcfa1b22eec15c49e26c70e7443026aa8ffcba46ba2999d2b9dcd6f6276; Expires=Fri, 25-May-2029 19:11:43 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax
+Set-Cookie: __cfruid=b4a3138ad8219335170a034093452039b04d039f-1716750703; path=/; domain=.discord.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: _cfuvid=7.htwJ_t7_jHcFv2WEu9IhgjNUTxJymt80VJCcV_tME-1716750703990-0.0.1.1-604800000; path=/; domain=.discord.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+CF-RAY: 88a0129aea360ec1-EZE
+
+{"message": "405: Method Not Allowed", "code": 0}HTTP/1.1 405 Method Not Allowed
+Date: Sun, 26 May 2024 19:11:44 GMT
+Content-Type: application/json
+Content-Length: 49
+Connection: keep-alive
+set-cookie: __dcfduid=ca62cc701b9311ef862236f29635d57f; Expires=Fri, 25-May-2029 19:11:44 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+via: 1.1 google
+alt-svc: h3=":443"; ma=86400
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=qI1XDj4FByLCEhdo9DDReF07d5dlz9qFXtXE6%2BFGJyMSAv9wLvGF%2B2Izm49bN594XDlUimBWFiQefM0GrrO%2BURmtwiuA5%2FKU2ad4dZzqdwvYn6fvS9vrp0e9CX8A"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors 'none'; default-src 'none'
+Set-Cookie: __sdcfduid=ca62cc701b9311ef862236f29635d57f143808ace6c42507037f7831654c57142e722835ca129e5f0d3d51d55983dba4; Expires=Fri, 25-May-2029 19:11:44 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax
+Set-Cookie: __cfruid=b973ac4f7d249a1fce864fd7dab6cafe17a69101-1716750704; path=/; domain=.discord.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: _cfuvid=xNfPFwtbQumZ2yNJ45y7QMbxxnivDcDDN.rmOWr8DcU-1716750704204-0.0.1.1-604800000; path=/; domain=.discord.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+CF-RAY: 88a0129c3c8a0ec6-EZE
+
+{"message": "405: Method Not Allowed", "code": 0}
